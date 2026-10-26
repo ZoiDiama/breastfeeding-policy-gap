@@ -45,14 +45,6 @@ The two happen at the same time. The data do not show that the end of paid leave
 - **Leave a mother can take.** Paid leave = maternity leave plus shared parental leave. Countries such as Norway and Sweden give leave only as shared parental leave, so maternity leave alone would wrongly show them at zero.
 - **Informal work.** Many women, especially in low-income countries, work informally and are not covered by leave laws, so the real gap is likely larger than shown.
 
-## Run it
-
-```r
-# install.packages(c("tidyverse", "readxl", "ggtext", "showtext"))
-source("breastfeeding.R")   # writes breastfeeding.png
-```
-
-Fonts (Playfair Display and Lato) are loaded from Google Fonts by `showtext`, so an internet connection is needed the first time.
 
 ## Repo layout
 
